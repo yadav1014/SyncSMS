@@ -11,7 +11,7 @@ External libraries:
 -OkHttp as HttpClient  
 -Coroutines for handling concurrency  
 -Recyclerview   
--WorkManager for background job scheduling
+-WorkManager for background job scheduling  
 -RoomDb for local storage
 
 Following image shows the project structure  
