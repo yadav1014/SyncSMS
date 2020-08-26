@@ -32,3 +32,6 @@ class Sms {
    var synced: Boolean
 }
 ```
+
+Installable apk can be found at   
+https://github.com/yadav1014/SyncSMS/raw/master/app-debug.apk
