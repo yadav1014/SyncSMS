@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SyncSMS</string>
+    <string name="please_click_below_to_allow_syncsms_to_read_sms">Please click below to allow SyncSMS to read sms.</string>
+    <string name="allow_reading_sms">Allow reading SMS</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="synced">Synced</string>
+    <string name="you_do_not_have_any_messages_with_amount_nincoming_messages_will_appear_here">You do not have any messages with amount. \nIncoming messages will appear here.</string>
+</resources>
